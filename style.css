@@ -1,0 +1,21 @@
+h1{
+    color: green
+}
+
+
+body{ 
+    color: rgb(197, 56, 56)
+}
+
+p{
+    color: pink
+}
+
+.box{
+    height: 50px;
+    width: 100px;
+    padding: 20px;
+    margin: 50px;
+    border: 10px solid green;
+    background-color: blue;
+}
